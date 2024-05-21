@@ -8,6 +8,7 @@ from sklearn.preprocessing import PowerTransformer
 from sklearn.feature_selection import SelectFromModel
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.model_selection import train_test_split
+pip insatll xgboost
 import xgboost as xgb
 from sklearn.metrics import accuracy_score
 from sklearn.model_selection import GridSearchCV
